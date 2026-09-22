@@ -20,7 +20,6 @@ export default function Selection({ applyColor }) {
         fontSize: "1rem",
         display: "flex",
         justifyContent: "center",
-        alignItems: "center",
       }}
       onClick={handleClick}
     >
